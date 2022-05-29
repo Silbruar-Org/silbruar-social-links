@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/silbruar-social-links/static/css/main.81026401.css",
-    "main.js": "/silbruar-social-links/static/js/main.734ef7ce.js",
+    "main.js": "/silbruar-social-links/static/js/main.3b16b898.js",
     "index.html": "/silbruar-social-links/index.html",
     "main.81026401.css.map": "/silbruar-social-links/static/css/main.81026401.css.map",
-    "main.734ef7ce.js.map": "/silbruar-social-links/static/js/main.734ef7ce.js.map"
+    "main.3b16b898.js.map": "/silbruar-social-links/static/js/main.3b16b898.js.map"
   },
   "entrypoints": [
     "static/css/main.81026401.css",
-    "static/js/main.734ef7ce.js"
+    "static/js/main.3b16b898.js"
   ]
 }
