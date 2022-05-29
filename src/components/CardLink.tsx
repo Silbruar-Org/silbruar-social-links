@@ -28,7 +28,10 @@ export const CardLink = ({
                 backgroundColor: color,
               }}
             >
-              <img src={"./assets/icons/" + icon + ".svg"} alt="link icon" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/icons/" + icon + ".svg"}
+                alt="link icon"
+              />
             </div>
           </div>
           <div className="col">

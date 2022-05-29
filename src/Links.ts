@@ -15,7 +15,7 @@ export const Links = [
   },
   {
     title: "Youtube",
-    description: "Let´s Play und Spiele mit mir.",
+    description: "Stream Highlights und Videos.",
     url: "https://www.youtube.com/channel/UCqqsU-ebk6cHdF2dY_FV-jQ",
     color: "#CD201F",
     icon: "youtube",
@@ -23,8 +23,8 @@ export const Links = [
 
   {
     title: "Discord",
-    description: "Unser Community Discord Server.",
-    url: "/",
+    description: "Der Silbruar Community Discord Server.",
+    url: "https://discord.gg/tBw8FHYnu5",
     color: "#0A66C2",
     icon: "discord",
   },

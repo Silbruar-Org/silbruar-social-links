@@ -13,7 +13,7 @@ class App extends React.Component {
         <div className="header">
           <>
             <img
-              src="./assets/Logo.png"
+              src={process.env.PUBLIC_URL + "/assets/Logo.png"}
               className="avatar bg-info rounded-circle"
               alt="avatar"
             />
@@ -24,7 +24,7 @@ class App extends React.Component {
         <div className="row social-links">
           <div className="col-md-12">
             {Links.map((link, index) => {
-              return <CardLink {...link} />;
+              return <CardLink {...link} key={index} />;
             })}
           </div>
         </div>
