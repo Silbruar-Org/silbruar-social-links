@@ -1,5 +1,6 @@
 :root {
-  --background-color: #f0f0f0;
+  --background-color: #F2F1F7;
+  --card-color: #FFFFFF;
 }
 
 body {
@@ -28,9 +29,10 @@ body {
   margin-right: auto;
   margin-bottom: 1em;
   max-width: 550px;
-  border-radius: 1em;
+  border-radius: .7em;
   border: 0px;
   padding: 0;
+  background-color: var(--card-color);
 }
 
 .social-links .link:hover {
@@ -46,12 +48,12 @@ body {
 }
 
 .social-links .link .link-icon {
-  border-radius: 0.5em;
-  padding: 0.5em;
+  border-radius: .5em;
+  padding: .7em;
   background-color: #1877f2;
 }
 
 .social-links .link .link-icon img {
-  max-width: 50px;
-  max-height: 50px;
+  max-width: 40px;
+  max-height: 40px;
 }

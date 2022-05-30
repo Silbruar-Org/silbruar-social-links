@@ -20,7 +20,13 @@ export const Links = [
     color: "#CD201F",
     icon: "youtube",
   },
-
+  {
+    title: "Tiktok",
+    description: "Stream Highlights und Videos.",
+    url: "https://www.tiktok.com/@silbruar?",
+    color: "#FE2C55",
+    icon: "tiktok",
+  },
   {
     title: "Discord",
     description: "Der Silbruar Community Discord Server.",
